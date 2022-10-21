@@ -4,37 +4,37 @@
   },
   "types": {
     "feat": {
-      "description": "✨ feat     · Add a new feature"
+      "description": "feat     · ✨ Add a new feature"
     },
     "fix": {
-      "description": "🐛 fix      · Submit a bug fix"
+      "description": "fix      · 🐛 Submit a bug fix"
     },
     "docs": {
-      "description": "📝 docs     · Documentation changes"
+      "description": "docs     · 📝 Documentation changes"
     },
     "refactor": {
-      "description": "♻️ refactor · Neither fixes a bug nor adds a feature. Code styling."
+      "description": "refactor · 🪛  Neither fixes a bug nor adds a feature. Code styling."
     },
     "perf": {
-      "description": "⚡️ perf     · Change that improves performance."
+      "description": "perf     · ⚡️ Change that improves performance."
     },
     "test": {
-      "description": "✅ test     · Add or modify tests only."
+      "description": "test     · ✅ Add or modify tests only."
     },
     "chore": {
-      "description": "⚙️ chore    · Changes to the build process or auxiliary tools."
+      "description": "chore    · 🎛  Changes to the build process or auxiliary tools."
     },
     "release": {
-      "description": "🔖 release  · Publish a new version of a package."
+      "description": "release  · 🔖 Publish a new version of a package."
     },
     "build": {
-      "description": "🛠 build    · Changes that affect the build system or external dependencies."
+      "description": "build    · 🛠  Changes that affect the build system or external dependencies."
     },
     "ci": {
-      "description": "👷🏽‍♀️ ci       · Changes to our CI configuration files and scripts."
+      "description": "ci       · 👷 Changes to our CI configuration files and scripts."
     },
     "style": {
-      "description": "🎨 style    · Changes that do not affect the meaning of the code."
+      "description": "style    · 🎨 Changes that do not affect the meaning of the code."
     }
   }
 }
